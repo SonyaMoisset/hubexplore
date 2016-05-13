@@ -1,1 +1,1 @@
-# Vue Github Explorer
+# Vuejs Github Explorer
