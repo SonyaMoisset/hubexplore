@@ -5,22 +5,22 @@
   "author": "Sonya Moisset",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.5",
-    "vue": "^1.0.0",
-    "vue-resource": "^0.1.16"
+    "bootstrap": "^4.2.1",
+    "vue": "^2.5.21",
+    "vue-resource": "^1.5.1"
   },
   "devDependencies": {
-    "browserify": "^11.2.0",
-    "eslint": "^1.7.3",
+    "browserify": "^16.2.3",
+    "eslint": "^5.12.0",
     "font-awesome": "^4.4.0",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-concat": "^2.6.0",
-    "gulp-connect": "^2.2.0",
-    "gulp-copy": "0.0.2",
-    "gulp-sourcemaps": "^1.6.0",
-    "gulp-uglify": "^1.4.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-copy": "4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
     "partialify": "^3.1.5",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^2.0.0"
   }
 }
