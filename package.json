@@ -18,7 +18,7 @@
     "gulp-connect": "2.3.1",
     "gulp-copy": "0.0.2",
     "gulp-sourcemaps": "1.12.1",
-    "gulp-uglify": "1.5.4",
+    "gulp-uglify": "3.0.2",
     "partialify": "3.1.6",
     "vinyl-buffer": "1.0.1",
     "vinyl-source-stream": "1.1.2"
