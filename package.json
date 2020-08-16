@@ -13,7 +13,7 @@
     "browserify": "11.2.0",
     "eslint": "7.7.0",
     "font-awesome": "4.7.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-concat": "2.6.1",
     "gulp-connect": "5.7.0",
     "gulp-copy": "0.0.2",
