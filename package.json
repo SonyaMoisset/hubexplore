@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "5.1.3",
-    "vue": "3.2.33",
+    "vue": "3.2.37",
     "vue-resource": "1.5.3"
   },
   "devDependencies": {
