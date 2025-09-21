@@ -5,7 +5,7 @@
   "author": "Sonya Moisset",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "5.3.5",
+    "bootstrap": "5.3.8",
     "vue": "3.5.21",
     "vue-resource": "1.5.3"
   },
