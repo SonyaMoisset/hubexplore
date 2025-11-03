@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "browserify": "17.0.1",
-    "eslint": "9.39.0",
+    "eslint": "9.39.1",
     "font-awesome": "4.7.0",
     "gulp": "5.0.1",
     "gulp-concat": "2.6.1",
